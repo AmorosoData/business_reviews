@@ -1,0 +1,9 @@
+[
+{
+  "name": "ortons",
+  "portal_name": "ortons",
+  "parent_co": "",
+  "include_locations_group": [],
+  "exclude_locations_group": [13]
+}
+]

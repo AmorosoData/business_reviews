@@ -1,0 +1,9 @@
+[
+    {
+        "name": "civic_energy_center",
+        "portal_name": "kickback",
+        "parent_co": "775",
+        "include_locations_group": [],
+        "exclude_locations_group": []
+    }
+]

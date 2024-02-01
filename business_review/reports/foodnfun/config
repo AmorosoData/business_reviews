@@ -1,0 +1,9 @@
+[
+{
+  "name": "foodnfun",
+  "portal_name": "foodnfun",
+  "parent_co": "",
+  "include_locations_group": [],
+  "exclude_locations_group": [23,28]
+}
+]

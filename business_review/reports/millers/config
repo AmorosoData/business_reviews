@@ -1,0 +1,9 @@
+[
+{
+  "name": "millers",
+  "portal_name": "millers",
+  "parent_co": "",
+  "include_locations_group": [],
+  "exclude_locations_group": [2,18,26]
+}
+]

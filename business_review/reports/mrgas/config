@@ -1,0 +1,9 @@
+[
+{
+  "name": "mrgas",
+  "portal_name": "mrgas",
+  "parent_co": "",
+  "include_locations_group": [],
+  "exclude_locations_group": [2,4,9,14,15,16,17]
+}
+]

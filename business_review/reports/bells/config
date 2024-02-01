@@ -1,0 +1,9 @@
+[
+    {
+        "name": "bells",
+        "portal_name": "kickback",
+        "parent_co": "301",
+        "include_locations_group": [],
+        "exclude_locations_group": []
+    }
+]

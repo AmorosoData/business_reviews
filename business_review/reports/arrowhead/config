@@ -1,0 +1,11 @@
+[
+    {
+        "name": "arrowhead",
+        "portal_name": "arrowhead",
+        "parent_co": "",
+        "include_locations_group": [],
+        "exclude_locations_group": [
+            3
+        ]
+    }
+]

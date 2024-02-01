@@ -1,0 +1,27 @@
+[
+    {
+        "name": "brandwagon",
+        "portal_name": "brandwagon",
+        "parent_co": "",
+        "include_locations_group": [],
+        "exclude_locations_group": [
+            79,
+            80,
+            108,
+            115,
+            156,
+            157,
+            158,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            184,
+            186,
+            2
+        ]
+    }
+]

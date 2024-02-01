@@ -1,0 +1,15 @@
+[
+    {
+        "name": "warrenton_oil_truck_stops",
+        "portal_name": "kickback",
+        "parent_co": "703",
+        "include_locations_group": [
+            73045,
+            73072,
+            75818,
+            75093,
+            75085
+        ],
+        "exclude_locations_group": []
+    }
+]

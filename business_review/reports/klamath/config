@@ -1,0 +1,9 @@
+[
+{
+  "name": "klamath",
+  "portal_name": "klamath",
+  "parent_co": "",
+  "include_locations_group": [],
+  "exclude_locations_group": [2]
+}
+]

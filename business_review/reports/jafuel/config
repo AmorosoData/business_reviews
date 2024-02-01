@@ -1,0 +1,9 @@
+[
+{
+  "name": "magic_fuel",
+  "portal_name": "jafuel",
+  "parent_co": "",
+  "include_locations_group": [],
+  "exclude_locations_group": [30,31]
+}
+]

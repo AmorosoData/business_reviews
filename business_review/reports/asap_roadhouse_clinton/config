@@ -1,0 +1,11 @@
+[
+    {
+        "name": "asap_roadhouse_clinton",
+        "portal_name": "kickback",
+        "parent_co": "565",
+        "include_locations_group": [
+            75420
+        ],
+        "exclude_locations_group": []
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "name": "divine_corp",
+        "portal_name": "kickback",
+        "parent_co": "647",
+        "include_locations_group": [],
+        "exclude_locations_group": []
+    }
+]

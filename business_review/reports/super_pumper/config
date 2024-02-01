@@ -1,0 +1,9 @@
+[
+    {
+        "name": "super_pumper",
+        "portal_name": "kickback",
+        "parent_co": "1297",
+        "include_locations_group": [],
+        "exclude_locations_group": []
+    }
+]

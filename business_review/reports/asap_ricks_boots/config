@@ -1,0 +1,11 @@
+[
+    {
+        "name": "asap_ricks_boots",
+        "portal_name": "kickback",
+        "parent_co": "565",
+        "include_locations_group": [
+            74715
+        ],
+        "exclude_locations_group": []
+    }
+]

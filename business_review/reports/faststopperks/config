@@ -1,0 +1,9 @@
+[
+{
+  "name": "faststopperks_highland",
+  "portal_name": "faststopperks",
+  "parent_co": "",
+  "include_locations_group": [],
+  "exclude_locations_group": [2,17]
+}
+]

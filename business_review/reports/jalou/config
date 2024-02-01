@@ -1,0 +1,9 @@
+[
+{
+  "name": "magic_cash",
+  "portal_name": "jalou",
+  "parent_co": "",
+  "include_locations_group": [],
+  "exclude_locations_group": [25,28,29,32,40]
+}
+]

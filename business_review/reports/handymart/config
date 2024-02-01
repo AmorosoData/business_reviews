@@ -1,0 +1,9 @@
+[
+{
+  "name": "handymart",
+  "portal_name": "handymart",
+  "parent_co": "",
+  "include_locations_group": [],
+  "exclude_locations_group": [1,12,13,26,37,41]
+}
+]

@@ -1,0 +1,9 @@
+[
+{
+  "name": "canyon ferry mini basket",
+  "portal_name": "canyonferry",
+  "parent_co": "",
+  "include_locations_group": [],
+  "exclude_locations_group": [3,4]
+}
+]

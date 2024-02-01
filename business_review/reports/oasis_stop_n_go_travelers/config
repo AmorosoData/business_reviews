@@ -1,0 +1,12 @@
+[
+    {
+        "name": "oasis_stop_n_go_travelers",
+        "portal_name": "kickback",
+        "parent_co": "321",
+        "include_locations_group": [
+            70873,
+            74713
+        ],
+        "exclude_locations_group": []
+    }
+]

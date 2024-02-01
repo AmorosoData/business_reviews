@@ -1,0 +1,9 @@
+[
+{
+  "name": "freddy",
+  "portal_name": "freddy",
+  "parent_co": "",
+  "include_locations_group": [],
+  "exclude_locations_group": [12,17,18,19,20,21,22,23,25]
+}
+]

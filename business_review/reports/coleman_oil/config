@@ -1,0 +1,9 @@
+[
+    {
+        "name": "coleman_oil",
+        "portal_name": "kickback",
+        "parent_co": "486",
+        "include_locations_group": [],
+        "exclude_locations_group": []
+    }
+]

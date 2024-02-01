@@ -1,0 +1,9 @@
+[
+    {
+        "name": "gs_services",
+        "portal_name": "kickback",
+        "parent_co": "514",
+        "include_locations_group": [],
+        "exclude_locations_group": []
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "leerjak",
+        "portal_name": "leerjak",
+        "parent_co": "",
+        "include_locations_group": [],
+        "exclude_locations_group": [
+            6
+        ]
+    }
+]

@@ -1,0 +1,9 @@
+[
+{
+  "name": "unitedpacemployee",
+  "portal_name": "unitedpacemployee",
+  "parent_co": "",
+  "include_locations_group": [],
+  "exclude_locations_group": [70,173,208,209,210,211,239,254,309,342,345,353,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,384]
+}
+]

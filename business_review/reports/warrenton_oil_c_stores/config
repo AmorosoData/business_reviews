@@ -1,0 +1,16 @@
+[
+    {
+        "name": "warrenton_oil_c_stores",
+        "portal_name": "kickback",
+        "parent_co": "703",
+        "include_locations_group": [],
+        "exclude_locations_group": [
+            73045,
+            73072,
+            75818,
+            75093,
+            75085,
+            72767
+        ]
+    }
+]

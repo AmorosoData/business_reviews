@@ -1,0 +1,13 @@
+[
+    {
+        "name": "bonneaubonus",
+        "portal_name": "bonneaubonus",
+        "parent_co": "",
+        "include_locations_group": [],
+        "exclude_locations_group": [
+            4,
+            5,
+            6
+        ]
+    }
+]

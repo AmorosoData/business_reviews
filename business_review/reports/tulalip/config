@@ -1,0 +1,11 @@
+[
+    {
+        "name": "tulalip",
+        "portal_name": "tulalip",
+        "parent_co": "",
+        "include_locations_group": [],
+        "exclude_locations_group": [
+            3
+        ]
+    }
+]

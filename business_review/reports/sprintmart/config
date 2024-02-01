@@ -1,0 +1,9 @@
+[
+{
+  "name": "sprintmart",
+  "portal_name": "sprintmart",
+  "parent_co": "",
+  "include_locations_group": [],
+  "exclude_locations_group": [3,10,12,25,27,29,38,40,53,57,69,71,72,77,78,94]
+}
+]

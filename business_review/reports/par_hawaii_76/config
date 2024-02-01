@@ -1,0 +1,27 @@
+[
+    {
+        "name": "par_hawaii_76",
+        "portal_name": "kickback",
+        "parent_co": "387",
+        "include_locations_group": [],
+        "exclude_locations_group": [
+            75813,
+            75393,
+            72178,
+            72179,
+            72250,
+            72169,
+            74693,
+            74311,
+            74307,
+            72156,
+            72166,
+            72175,
+            74821,
+            74838,
+            74352,
+            74353,
+            74354
+        ]
+    }
+]

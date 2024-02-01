@@ -1,0 +1,9 @@
+[
+    {
+        "name": "double_r_liquors",
+        "portal_name": "kickback",
+        "parent_co": "738",
+        "include_locations_group": [],
+        "exclude_locations_group": []
+    }
+]

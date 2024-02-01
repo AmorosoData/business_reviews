@@ -1,0 +1,9 @@
+[
+{
+  "name": "expressmart",
+  "portal_name": "expressmart",
+  "parent_co": "",
+  "include_locations_group": [],
+  "exclude_locations_group": [5,6,12]
+}
+]

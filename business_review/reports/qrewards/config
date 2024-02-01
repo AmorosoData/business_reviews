@@ -1,0 +1,9 @@
+[
+{
+  "name": "qrewards",
+  "portal_name": "qrewards",
+  "parent_co": "",
+  "include_locations_group": [],
+  "exclude_locations_group": [2,7,21,30,31,32,33,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,52]
+}
+]

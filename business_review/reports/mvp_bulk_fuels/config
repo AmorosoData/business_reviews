@@ -1,0 +1,11 @@
+[
+    {
+        "name": "mvp_bulk_fuels",
+        "portal_name": "kickback",
+        "parent_co": "969",
+        "include_locations_group": [
+            74040
+        ],
+        "exclude_locations_group": []
+    }
+]

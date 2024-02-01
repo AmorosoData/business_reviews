@@ -1,0 +1,11 @@
+[
+    {
+        "name": "alamosa",
+        "portal_name": "kickback",
+        "parent_co": "875",
+        "include_locations_group": [
+            73456
+        ],
+        "exclude_locations_group": []
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "name": "e_and_c_mid_atlantic_corner_mart",
+        "portal_name": "kickback",
+        "parent_co": "977",
+        "include_locations_group": [
+            74138,
+            74254,
+            74255,
+            74256,
+            74257,
+            74258,
+            74259,
+            74260,
+            74261
+        ],
+        "exclude_locations_group": []
+    }
+]

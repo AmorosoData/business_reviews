@@ -1,0 +1,9 @@
+[
+{
+  "name": "getngo_olson oil",
+  "portal_name": "getngo",
+  "parent_co": "",
+  "include_locations_group": [],
+  "exclude_locations_group": [3,4,7]
+}
+]

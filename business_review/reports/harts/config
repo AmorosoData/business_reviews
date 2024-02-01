@@ -1,0 +1,13 @@
+[
+    {
+        "name": "harts",
+        "portal_name": "harts",
+        "parent_co": "",
+        "include_locations_group": [],
+        "exclude_locations_group": [
+            4,
+            5,
+            10
+        ]
+    }
+]

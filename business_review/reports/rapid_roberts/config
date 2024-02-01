@@ -1,0 +1,11 @@
+[
+    {
+        "name": "rapid_roberts",
+        "portal_name": "kickback",
+        "parent_co": "393",
+        "include_locations_group": [],
+        "exclude_locations_group": [
+            72249
+        ]
+    }
+]

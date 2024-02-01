@@ -1,0 +1,11 @@
+[
+    {
+        "name": "conrad_bischoff",
+        "portal_name": "kickback",
+        "parent_co": "",
+        "include_locations_group": [
+            71219
+        ],
+        "exclude_locations_group": []
+    }
+]

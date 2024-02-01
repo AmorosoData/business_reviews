@@ -1,0 +1,19 @@
+[
+    {
+        "name": "asap_trendar",
+        "portal_name": "kickback",
+        "parent_co": "565",
+        "include_locations_group": [
+            72704,
+            72707,
+            72708,
+            72709,
+            73036,
+            73498,
+            74472,
+            74592,
+            75049
+        ],
+        "exclude_locations_group": []
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "name": "jrs_country_store",
+        "portal_name": "kickback",
+        "parent_co": "412",
+        "include_locations_group": [],
+        "exclude_locations_group": []
+    }
+]

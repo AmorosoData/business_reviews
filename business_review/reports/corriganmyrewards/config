@@ -1,0 +1,9 @@
+[
+{
+  "name": "corriganoil_fastlane",
+  "portal_name": "corriganmyrewards",
+  "parent_co": "",
+  "include_locations_group": [],
+  "exclude_locations_group": [2,3,5,14]
+}
+]

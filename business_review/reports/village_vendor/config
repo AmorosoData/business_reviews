@@ -1,0 +1,9 @@
+[
+    {
+        "name": "village_vendor",
+        "portal_name": "kickback",
+        "parent_co": "411",
+        "include_locations_group": [],
+        "exclude_locations_group": []
+    }
+]

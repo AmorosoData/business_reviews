@@ -1,0 +1,9 @@
+[
+    {
+        "name": "north_stratford_minimart",
+        "portal_name": "kickback",
+        "parent_co": "490",
+        "include_locations_group": [],
+        "exclude_locations_group": []
+    }
+]

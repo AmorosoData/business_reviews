@@ -1,0 +1,9 @@
+[
+{
+  "name": "darusa",
+  "portal_name": "darusa",
+  "parent_co": "",
+  "include_locations_group": [],
+  "exclude_locations_group": [1,5,6,7,9,10,11]
+}
+]

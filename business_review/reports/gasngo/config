@@ -1,0 +1,9 @@
+[
+{
+  "name": "gasngo_perry",
+  "portal_name": "gasngo",
+  "parent_co": "",
+  "include_locations_group": [],
+  "exclude_locations_group": [9,10,15,21,22]
+}
+]

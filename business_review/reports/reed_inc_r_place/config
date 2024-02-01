@@ -1,0 +1,14 @@
+[
+    {
+        "name": "reed_inc_r_place",
+        "portal_name": "kickback",
+        "parent_co": "291",
+        "include_locations_group": [
+            70841,
+            70842,
+            70844,
+            70840
+        ],
+        "exclude_locations_group": []
+    }
+]

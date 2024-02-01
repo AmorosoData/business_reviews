@@ -1,0 +1,9 @@
+[
+    {
+        "name": "mitchem_enterprise",
+        "portal_name": "kickback",
+        "parent_co": "977",
+        "include_locations_group": [],
+        "exclude_locations_group": []
+    }
+]

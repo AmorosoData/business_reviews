@@ -1,0 +1,9 @@
+[
+    {
+        "name": "missouri_valley_petroleum",
+        "portal_name": "kickback",
+        "parent_co": "295",
+        "include_locations_group": [],
+        "exclude_locations_group": []
+    }
+]

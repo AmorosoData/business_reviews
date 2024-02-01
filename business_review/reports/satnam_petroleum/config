@@ -1,0 +1,9 @@
+[
+    {
+        "name": "satnam_petroleum",
+        "portal_name": "kickback",
+        "parent_co": "778",
+        "include_locations_group": [],
+        "exclude_locations_group": []
+    }
+]

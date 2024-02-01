@@ -1,0 +1,12 @@
+[
+    {
+        "name": "signals",
+        "portal_name": "signals",
+        "parent_co": "",
+        "include_locations_group": [],
+        "exclude_locations_group": [
+            2,
+            3
+        ]
+    }
+]

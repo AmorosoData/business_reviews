@@ -1,0 +1,9 @@
+[
+{
+  "name": "meyeroilcompany",
+  "portal_name": "meyeroilcompany",
+  "parent_co": "",
+  "include_locations_group": [],
+  "exclude_locations_group": [1,11,15,16,17,25]
+}
+]

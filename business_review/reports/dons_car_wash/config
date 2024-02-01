@@ -1,0 +1,9 @@
+[
+    {
+        "name": "dons_car_wash",
+        "portal_name": "kickback",
+        "parent_co": "1116",
+        "include_locations_group": [],
+        "exclude_locations_group": []
+    }
+]

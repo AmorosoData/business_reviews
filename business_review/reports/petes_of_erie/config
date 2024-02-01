@@ -1,0 +1,12 @@
+[
+    {
+        "name": "petes_of_erie",
+        "portal_name": "kickback",
+        "parent_co": "556",
+        "include_locations_group": [],
+        "exclude_locations_group": [
+            72696,
+            75778
+        ]
+    }
+]

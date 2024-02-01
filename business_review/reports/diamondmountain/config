@@ -1,0 +1,9 @@
+[
+{
+  "name": "diamondmountain",
+  "portal_name": "diamondmountain",
+  "parent_co": "",
+  "include_locations_group": [],
+  "exclude_locations_group": [2]
+}
+]

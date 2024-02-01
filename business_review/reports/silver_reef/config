@@ -1,0 +1,9 @@
+[
+{
+  "name": "silver_reef",
+  "portal_name": "silver_reef",
+  "parent_co": "",
+  "include_locations_group": [],
+  "exclude_locations_group": [1,2,5]
+}
+]

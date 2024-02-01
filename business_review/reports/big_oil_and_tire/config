@@ -1,0 +1,9 @@
+[
+    {
+        "name": "big_oil_and_tire",
+        "portal_name": "kickback",
+        "parent_co": "1211",
+        "include_locations_group": [],
+        "exclude_locations_group": []
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "name": "roseville_station",
+        "portal_name": "kickback",
+        "parent_co": "409",
+        "include_locations_group": [],
+        "exclude_locations_group": []
+    }
+]

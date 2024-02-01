@@ -1,0 +1,9 @@
+[
+{
+  "name": "fishers_fuelmarket",
+  "portal_name": "fuelmarket",
+  "parent_co": "",
+  "include_locations_group": [],
+  "exclude_locations_group": [14]
+}
+]

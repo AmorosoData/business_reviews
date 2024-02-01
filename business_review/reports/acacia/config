@@ -1,0 +1,15 @@
+[
+    {
+        "name": "acacia",
+        "portal_name": "acacia",
+        "parent_co": "",
+        "include_locations_group": [],
+        "exclude_locations_group": [
+            2,
+            3,
+            7,
+            8,
+            10
+        ]
+    }
+]

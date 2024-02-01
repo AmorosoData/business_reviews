@@ -1,0 +1,11 @@
+[
+    {
+        "name": "whitehead_oil_u_stop",
+        "portal_name": "kickback",
+        "parent_co": "1149",
+        "include_locations_group": [],
+        "exclude_locations_group": [
+            75616
+        ]
+    }
+]

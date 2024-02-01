@@ -1,0 +1,12 @@
+[
+    {
+        "name": "asap_lucilles_roadhouse",
+        "portal_name": "kickback",
+        "parent_co": "565",
+        "include_locations_group": [
+            72722,
+            72974
+        ],
+        "exclude_locations_group": []
+    }
+]

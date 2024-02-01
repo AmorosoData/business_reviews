@@ -1,0 +1,12 @@
+[
+    {
+        "name": "conoco_homeland",
+        "portal_name": "kickback",
+        "parent_co": "1300",
+        "include_locations_group": [],
+        "exclude_locations_group": [
+            75320,
+            75322
+        ]
+    }
+]

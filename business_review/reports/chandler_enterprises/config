@@ -1,0 +1,9 @@
+[
+    {
+        "name": "chandler_enterprises",
+        "portal_name": "kickback",
+        "parent_co": "646",
+        "include_locations_group": [],
+        "exclude_locations_group": []
+    }
+]

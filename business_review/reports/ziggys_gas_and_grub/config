@@ -1,0 +1,9 @@
+[
+    {
+        "name": "ziggys_gas_and_grub",
+        "portal_name": "kickback",
+        "parent_co": "333",
+        "include_locations_group": [],
+        "exclude_locations_group": []
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "tommys_properties",
+        "portal_name": "kickback",
+        "parent_co": "867",
+        "include_locations_group": [],
+        "exclude_locations_group": [
+            73460
+        ]
+    }
+]

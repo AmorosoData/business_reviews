@@ -1,0 +1,12 @@
+[
+    {
+        "name": "oncue_16_17",
+        "portal_name": "kickback",
+        "parent_co": "1219",
+        "include_locations_group": [
+            74724,
+            74723
+        ],
+        "exclude_locations_group": []
+    }
+]

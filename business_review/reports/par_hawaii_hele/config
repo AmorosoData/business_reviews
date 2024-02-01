@@ -1,0 +1,12 @@
+[
+    {
+        "name": "par_hawaii_hele",
+        "portal_name": "kickback",
+        "parent_co": "1347",
+        "include_locations_group": [],
+        "exclude_locations_group": [
+            75678,
+            75754
+        ]
+    }
+]
